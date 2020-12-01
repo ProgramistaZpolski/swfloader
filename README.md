@@ -1,4 +1,4 @@
-# swfloader
+# SWFLoader
 A website that plays flash content
 http://programistazpolski.ct8.pl/FlashPlayerServer/<br>
 ![screenshot](https://raw.githubusercontent.com/ProgramistaZpolski/swfloader/master/Screenshot_2020-12-01%20SWF%20Loader.png)
