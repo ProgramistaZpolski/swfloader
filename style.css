@@ -1,0 +1,26 @@
+header {
+    background-color: #434c5e;
+    height: 8vh;
+}
+
+main {
+    height: 92vh;
+}
+
+body {
+    margin: 0;
+}
+
+header h1 {
+    float: left;
+}
+
+header div {
+    float: right;
+}
+
+header h1, header div {
+    margin-top: 15px;
+    margin-left: 40px;
+    margin-right: 40px;
+}

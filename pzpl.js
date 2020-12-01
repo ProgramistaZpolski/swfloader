@@ -1,0 +1,1 @@
+"use strict";let pzpljs={};function $(h){return document.querySelector(h)}pzpljs.fadeOut=function(fast,target){let fade=setInterval(function(){if(!target.style.opacity){target.style.opacity=1}if(target.style.opacity>0){target.style.opacity-=0.1}else{clearInterval(fade);target.style.display="none";}},fast)};
